@@ -1,0 +1,9 @@
+{
+  "name": "gitiki",
+  "version": "0.0.1",
+  "description": "PERSONAL Single Page Wiki application, fount from principles of version control systems.",
+  "main": "index.js",
+  "repository": "https://github.com/micrub/gitiki",
+  "author": "Michael Rubanov <mrubanov@gmail.com>",
+  "license": "MIT"
+}
